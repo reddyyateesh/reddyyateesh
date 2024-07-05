@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on [**Virtual Assistant**](https://naravirtualai.com)
  
- 🌱 I’m currently learning **Html, CSS, Javascript**
+ 🌱 I’m currently learning **HTML, CSS, Javascript**
 
 💬 Ask me about **Python, Java, Rust... or anything [here](https://github.com/reddyyateesh/reddyyateesh/issues)**
 
