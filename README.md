@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **virtual assistant**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Html, CSS, Javascript**
 
 💬 Ask me about **Python, Java, Rust... or anything [here](https://github.com/reddyyateesh/reddyyateesh/issues)**
 
